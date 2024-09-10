@@ -1,6 +1,6 @@
 # CS313_Project
 Data Mining Last Term Project
-Topic: Applying FPGrowth Algorithm To Classify Spam or Ham Message
+# Topic: Applying FPGrowth Algorithm To Classify Spam or Ham Message
 
 Team members:
   * Anh Huy Luong 22520550
