@@ -6,7 +6,7 @@
 </p>
 
 <!-- Header -->
-<h1 align="center"><b>MACHINE LEARNING</b></h>
+<h1 align="center"><DATA MINING AND APPLICATION</b></h>
 
 # Giới thiệu môn học: 
 * *Tên môn học:* KHAI THÁC DỮ LIỆU VÀ ỨNG DỤNG
