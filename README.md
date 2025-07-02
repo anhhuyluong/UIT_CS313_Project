@@ -21,15 +21,13 @@
 * *Khoa:* Khoa học Máy tính
 * *Lớp:* KHMT 2022.2
 
-# Quá trình: 
 
 ## Đồ án cuối kỳ:
 * *Tên đồ án:* Applying FP Growth algorithm to classify spam or ham message
-* *Thư mục:*
 
 ## Thành viên nhóm: 
-| STT    | MSSV          | Họ và Tên              |Vai trò    | Github                                                  | Email                   |
-| ------ |:-------------:| ----------------------:|----------:|--------------------------------------------------------:|-------------------------:
-| 1      |22520550       |Lương Anh Huy           |           |                                                         |                         |
-| 2      |22520521       |Phạm Đông Hưng          |           |                                                         |                         |
-| 3      |22520884       |Phan Công Minh          |           |                                                         |                         |
+| STT    | MSSV          | Họ và Tên              |Vai trò    | Email                   |
+| ------ |:-------------:| ----------------------:|----------:|-------------------------:
+| 1      |22520550       |Lương Anh Huy           |Trưởng nhóm| 22520550@gm.uit.edu.vn                        |
+| 2      |22520521       |Phạm Đông Hưng          |Thành viên| 22520521@gm.uit.edu.vn                        |
+| 3      |22520884       |Phan Công Minh          |Thành viên| 22520884@gm.uit.edu.vn  |
