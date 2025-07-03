@@ -30,7 +30,7 @@
 4. Kết quả đạt được
    
 
-### 🛠️ Công nghệ và thư viện
+## 🛠️ Công nghệ và thư viện
 Python 3.x
 NLTK
 Scikit-learn
@@ -40,7 +40,16 @@ Logistic Regression
 Multinomial Naive Bayes
 Torch
 
-#### 📄 Giấy phép
+## 📊 Kết quả So sánh Mô hình
+* Các độ đo hiển thị là **Weighted Avg** trong classification report
+  
+| Mô hình                     | Accuracy | Precision | Recall | F1-score |
+|----------------------------|----------|-----------|--------|----------|
+| FP-Growth + Classifier | 0.91 | 0.91 | 0.91 | 0.91 |
+| Multinomial Naive Bayes | 0.96 | 0.97 | 0.96 | 0.96 |
+| Logistic Regression | 0.97 | 0.97 | 0.97 | 0.97 |
+
+## 📄 Giấy phép
 Đồ án học thuật – Không sử dụng vào mục đích thương mại.
 © 2025 - Trường Đại học Công nghệ thông tin.
 
